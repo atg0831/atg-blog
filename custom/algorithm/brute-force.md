@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: algorithm/brute-force
 title: Brute Force
 subtitle: Collection of brute-force solved problems 
 ---
@@ -12,9 +12,8 @@ subtitle: Collection of brute-force solved problems
 <details>
 <summary>📝BOJ-2309</summary>
 <div markdown="1">
-
 {% include BOJ-2309.md %}
-
 </div>
 </details>
 
+ 

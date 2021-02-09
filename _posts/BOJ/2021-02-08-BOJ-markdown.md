@@ -2,8 +2,8 @@
 layout: post
 title: 📝BOJ-2309
 subtitle: 
-tags: [algorithm]
 comments: true
+tags: [algorithm,brute-force]
 ---
 
 

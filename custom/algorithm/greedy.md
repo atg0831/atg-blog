@@ -1,7 +1,7 @@
 ---
-layout: algorithm/dp
-title: dp
-subtitle: Collection of dp solved problems 
+layout: algorithm/greedy
+title: Greedy
+subtitle: Collection of greedy solved problems 
 ---
 
 

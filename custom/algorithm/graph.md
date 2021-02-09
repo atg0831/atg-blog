@@ -1,7 +1,7 @@
 ---
-layout: algorithm/dp
-title: dp
-subtitle: Collection of dp solved problems 
+layout: algorithm/grpah
+title: graph
+subtitle: Collection of graph solved problems 
 ---
 
 

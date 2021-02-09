@@ -19,6 +19,8 @@ navbar-links:
  Algorithm:
    - Brute Force: "/custom/algorithm/brute-force"
    - Dp: "/custom/algorithm/dp"
+   - Greedy: "/custom/algorithm/greedy"
+   - Graph: "/custom/algorithm/graph"
  Projects: "/custom/projects/project"
  Author's home: "https://github.com/atg0831/atg0831.github.io"
 
@@ -192,7 +194,7 @@ timezone: "Korea/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 6
 
 kramdown:
   input: GFM
