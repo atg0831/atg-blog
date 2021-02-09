@@ -1,5 +1,5 @@
 ---
-layout: algorithm/grpah
+layout: algorithm/graph
 title: graph
 subtitle: Collection of graph solved problems 
 ---
