@@ -1,12 +1,11 @@
 ---
-layout: page
-title: About me
-subtitle: Information about me
+layout: post
+title: PROJECT LIST
+subtitle: Check the projects
 ---
 
-My name is Taegeon An. 
+My name is Inigo Montoya. I have the following qualities:
 
-**사용언어**
 - I rock a great mustache
 - I'm extremely loyal to my family
 
