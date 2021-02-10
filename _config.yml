@@ -193,6 +193,9 @@ date_format: "%B %-d, %Y"
 timezone: "Korea/Seoul"
 markdown: kramdown
 highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incrementials: false
 permalink: /:year-:month-:day-:title/
 paginate: 6
 
